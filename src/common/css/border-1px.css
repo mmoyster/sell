@@ -1,0 +1,13 @@
+.border-1px {
+  position: relative;
+}
+
+.border-1px:after {
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  content: '';
+  border-bottom: 1px solid rgba(7, 17, 27, 0.1);
+}

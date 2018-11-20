@@ -1,0 +1,49 @@
+@media screen and(-webkit-max-device-pixel-ratio: 3)and(-webkit-min-device-pixel-ratio: 3) {
+  .brand {
+    background-image: url('./brand@3x.png');
+  }
+
+  .supports .decrease {
+    background-image: url('./decrease_1@3x.png');
+  }
+
+  .supports .discount {
+    background-image: url('./discount_1@3x.png');
+  }
+
+  .supports .invoice {
+    background-image: url('./invoice_1@3x.png');
+  }
+
+  .supports .special {
+    background-image: url('./special_1@3x.png');
+  }
+
+  .supports .guarantee {
+    background-image: url('./guarantee_1@3x.png');
+  }
+
+  .bulletin {
+    background-image: url('./bulletin@3x.png');
+  }
+
+  .supports_content-item .decrease {
+    background-image: url('./decrease_2@3x.png');
+  }
+
+  .supports_content-item .discount {
+    background-image: url('./discount_2@3x.png');
+  }
+
+  .supports_content-item .invoice {
+    background-image: url('./invoice_2@3x.png');
+  }
+
+  .supports_content-item .special {
+    background-image: url('./special_2@3x.png');
+  }
+
+  .supports_content-item .guarantee {
+    background-image: url('./guarantee_2@3x.png');
+  }
+}
